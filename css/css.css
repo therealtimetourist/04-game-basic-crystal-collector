@@ -1,0 +1,14 @@
+html{
+	background-color: #efefef;
+}
+.fah{
+	border:1px solid #000;
+	height:20px;
+	width:60px;
+	background-color: #ebebeb;
+	margin: 6px;
+	display: inline-block;
+	cursor: pointer;
+	padding:20px 0;
+	text-align: center;
+}
